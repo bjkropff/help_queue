@@ -1,0 +1,19 @@
+{
+  "name": "help_queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjkropff/help_queue.git"
+  },
+  "author": "Brian Kropff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjkropff/help_queue/issues"
+  },
+  "homepage": "https://github.com/bjkropff/help_queue#readme"
+}
