@@ -2,4 +2,10 @@
 
 to start 
 
-run `npm install`
+run 
+
+$ `npm install -g npm`
+
+$ `npm install`
+
+$ `npm start`
